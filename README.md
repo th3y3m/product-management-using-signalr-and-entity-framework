@@ -1,3 +1,5 @@
+[![Product Management (CI applied)](https://github.com/th3y3m/product-management-using-signalr-and-entity-framework/actions/workflows/dotnet.yml/badge.svg)](https://github.com/th3y3m/product-management-using-signalr-and-entity-framework/actions/workflows/dotnet.yml)
+
 # Welcome to the Product Management using SignalR and Entity Framework Repository
 
 ## Overview
