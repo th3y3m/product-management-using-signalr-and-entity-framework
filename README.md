@@ -46,12 +46,6 @@ Once the application is running, you can access the product management interface
 - **/Hubs:** Contains SignalR hubs for real-time communication.
 - **/Data:** Contains the database context and migration files.
 
-## Contributing
-We welcome contributions! Please fork the repository and submit pull requests.
-
-## License
-This project is licensed under the MIT License.
-
 ## Contact
 For any questions or inquiries, please reach out:
 
